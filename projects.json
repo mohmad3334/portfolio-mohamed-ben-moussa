@@ -1,0 +1,32 @@
+[
+    {
+        "image": "/projects/space-tourism-website.jpg",
+        "name": "Space tourism",
+        "link" : "https://mohmad3334.github.io/Space-Tourism-ebsite/",
+        "alt":"Screenshot of Space Tourism website showcasing destinations and experiences for space travelers"
+    },
+    {
+        "image": "/projects/randome-joke.png",
+        "name": "Random Joke",
+        "link" : "https://mohmad3334.github.io/random-joke/",
+        "alt":"Random joke generator app interface displaying a new joke"
+    },
+    {
+        "image": "/projects/weather-app.png",
+        "name": "Weather App",
+        "link" : "https://mohmad3334.github.io/weather-app/",
+        "alt":"Weather app showing temperature, forecast, and location search"
+    },
+    {
+        "image": "/projects/TODO-LIST.png",
+        "name": "TODO LIST",
+        "link" : "https://mohmad3334.github.io/TODO-LIST/",
+        "alt":"Todo list application interface with tasks and checkboxes"
+    },
+    {
+        "image": "/projects/ROME-HOMEPAGE-MASTER.jpg",
+        "name": "Rome Home page",
+        "link" : "https://mohmad3334.github.io/ROME-HOMEPAGE-MASTER/",
+        "alt":"Homepage design for Rome travel website with landmarks and attractions"
+    }
+]
